@@ -1,0 +1,16 @@
+
+{
+  "name": "delivery-site",
+  "version": "1.0.0",
+  "description": "Backend para o site de delivery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5"
+  }
+}
